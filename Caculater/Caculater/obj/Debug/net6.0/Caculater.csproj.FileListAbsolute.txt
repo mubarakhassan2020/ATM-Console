@@ -1,0 +1,15 @@
+C:\Users\AlShaheen\source\repos\Caculater\Caculater\bin\Debug\net6.0\Caculater.exe
+C:\Users\AlShaheen\source\repos\Caculater\Caculater\bin\Debug\net6.0\Caculater.deps.json
+C:\Users\AlShaheen\source\repos\Caculater\Caculater\bin\Debug\net6.0\Caculater.runtimeconfig.json
+C:\Users\AlShaheen\source\repos\Caculater\Caculater\bin\Debug\net6.0\Caculater.dll
+C:\Users\AlShaheen\source\repos\Caculater\Caculater\bin\Debug\net6.0\ref\Caculater.dll
+C:\Users\AlShaheen\source\repos\Caculater\Caculater\bin\Debug\net6.0\Caculater.pdb
+C:\Users\AlShaheen\source\repos\Caculater\Caculater\obj\Debug\net6.0\Caculater.csproj.AssemblyReference.cache
+C:\Users\AlShaheen\source\repos\Caculater\Caculater\obj\Debug\net6.0\Caculater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlShaheen\source\repos\Caculater\Caculater\obj\Debug\net6.0\Caculater.AssemblyInfoInputs.cache
+C:\Users\AlShaheen\source\repos\Caculater\Caculater\obj\Debug\net6.0\Caculater.AssemblyInfo.cs
+C:\Users\AlShaheen\source\repos\Caculater\Caculater\obj\Debug\net6.0\Caculater.csproj.CoreCompileInputs.cache
+C:\Users\AlShaheen\source\repos\Caculater\Caculater\obj\Debug\net6.0\Caculater.dll
+C:\Users\AlShaheen\source\repos\Caculater\Caculater\obj\Debug\net6.0\ref\Caculater.dll
+C:\Users\AlShaheen\source\repos\Caculater\Caculater\obj\Debug\net6.0\Caculater.pdb
+C:\Users\AlShaheen\source\repos\Caculater\Caculater\obj\Debug\net6.0\Caculater.genruntimeconfig.cache
